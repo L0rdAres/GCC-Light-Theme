@@ -1,0 +1,19 @@
+{
+   "name" : "GCC Light Blurple",
+   "about_url" : "https://ares.party",
+   "license_url": "https://github.com/L0rdAres/GCC-Dark-Blurple/blob/master/LICENSE",
+   "color_schemes": {	  
+     "Blurple": {
+     "primary": "222222",
+     "secondary": "ffffff",
+     "tertiary": "7289DA",
+     "quaternary": "7289DA",
+     "header_background": "7289DA",
+     "header_primary": "ffffff",
+     "highlight": "4d99ff",
+     "danger": "e45735",
+     "success": "009900",
+     "love": "7289DA"
+     }
+  }
+}
